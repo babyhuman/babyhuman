@@ -3,7 +3,7 @@
 <h3 align="center">Well, my vision is to be a mate for computers to reach its extreme potential with the help of machine learning and AI. </h3>
 
 <img align="right" alt="ai" width="400" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif"/>
-- 🌱 I’m currently learning *DSA, machine learning, data analysis,*
+- 🌱 I’m currently learning *DSA, machine learning, data analysis, artificial intelligence....*
 
 <p align="left">
 </p>
