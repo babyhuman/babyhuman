@@ -1,9 +1,10 @@
-<h1 align="center">Namaste! 🫡 I'm Astha Singh</h1>
-<h3 align="center">A computer science student from India. I am looking forward to go explore artificial intelligence</h3>
-<img align="right" alt="ai" width="400" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif"/>
-- 🌱 I’m currently learning **DSA, machine learning, tenser flow**
+<h1 align="center">Namaste! I'm Astha Singh.</h1>
+<h3 align="center">A computer science student from India. I am looking forward to go explore artificial intelligence. </h3>
+<h3 align="center">well my vision is to be a mate for computers to reach its extreme potential with the help of machine learning . </h3>
 
-<h3 align="left">Connect with me:</h3>
+<img align="right" alt="ai" width="400" src="https://i.pinimg.com/originals/ae/d1/1d/aed11d6975231b91c8e992c02b8376da.gif"/>
+- 🌱 I’m currently learning *DSA, machine learning, data analysis,*
+
 <p align="left">
 </p>
 
